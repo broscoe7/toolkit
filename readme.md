@@ -16,4 +16,4 @@ The included tools are:
 
 ## Installation
 
-`go get -u github.com/broscoe7/toolbox`
+`go get -u github.com/broscoe7/toolkit`
